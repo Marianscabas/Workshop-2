@@ -10,8 +10,8 @@ const getPeliculas = (peliculas) => {
     const peticion = fetch(peliculas)
     peticion
         .then((resp) => resp.json())
-        .then((data) => showPeliculas(data.results))
-        .catch((error) => alert("errorhp"))
+        .then((data) => showPeliculas(data))
+        .catch((error) => alert("error"))
 }
 
 getPeliculas(API_URL)
