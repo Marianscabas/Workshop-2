@@ -1,0 +1,125 @@
+{
+    "peliculas":[
+        {
+            "name":"venom",
+            "img":"https://tse3.mm.bing.net/th?id=OIP.V4t4icqUcBv0teYl1mCCuwHaKq&pid=Api&P=0",
+            "score":5.0,
+            "genre":"ciencia ficcion"
+        },
+        {
+            "name":"E.T",
+            "img":"https://tse3.mm.bing.net/th?id=OIP.F6I4lHRNQfV77z5_MFNJsgHaLH&pid=Api&P=0",
+            "score":8.0,
+            "genre":"terror"
+        },
+        {
+            "name":"extinction",
+            "img":"https://tse1.mm.bing.net/th?id=OIP.8v5JZTnZ0YIkwtVMym0wmAHaK-&pid=Api&P=0",
+            "score": 7.0,
+            "genre":"ciencia ficcion"
+        },
+        {
+            "name":"john wick 3",
+            "img":"https://tse3.mm.bing.net/th?id=OIP.yYWcrrGGJ9wKIx1ozVBmNAHaKr&pid=Api&P=0",
+            "score":9.0,
+            "genre":"accion"
+        },
+        {
+            "name":"hombre araña",
+            "img":"https://tse4.mm.bing.net/th?id=OIP.BPT1u_bkIaE_F34XJBSfkgHaK9&pid=Api&P=0",
+            "score":9.0,
+            "genre":"ciencia ficcion"
+        },
+        {
+            "name":"no mires",
+            "img":"https://tse3.mm.bing.net/th?id=OIP.KC9l6IF-bQ53ipTF4j--lQHaKx&pid=Api&P=0",
+            "score":5.0,
+            "genre":"suspenso"
+        },
+        {
+            "name":"mortal kombat",
+            "img":"https://tse1.mm.bing.net/th?id=OIP.IOIXqyXfyVpQRa5apXG7lAHaK-&pid=Api&P=0",
+            "score":10.0,
+            "genre":"ciencia ficcion"
+        },
+        {
+            "name":"mascara",
+            "img":"https://tse3.mm.bing.net/th?id=OIP.ShTei__Uiw02wrQZLPrBLwHaLH&pid=Api&P=0",
+            "score":8.0,
+            "genre":"comedia"
+        },
+        {
+            "name":"solo en casa",
+            "img":"https://tse4.mm.bing.net/th?id=OIP.8Qubiv13w4qFwjD6SHc_-wHaKf&pid=Api&P=0",
+            "score":6.0,
+            "genre":"comedia"
+        },
+        {
+            "name":"rango",
+            "img":"https://tse4.mm.bing.net/th?id=OIP.8uc0Zas1aPq9-_0AWVAN0gHaLH&pid=Api&P=0",
+            "score":5.0,
+            "genre":"infantil"
+        },
+        {
+            "name":"caperucita roja",
+            "img":"https://tse3.mm.bing.net/th?id=OIP.Bh-F1bKESlUGsn1cFMukbwAAAA&pid=Api&P=0",
+            "score":3.0,
+            "genre":"ciencia ficcion"
+        },
+        {
+            "name":"wildlife",
+            "img":"https://tse1.mm.bing.net/th?id=OIP.vLHWyZ3oSSDoWYUNVKngygHaKF&pid=Api&P=0",
+            "score":5.0,
+            "genre":"romance"
+        },
+        {
+            "name":"libertador",
+            "img":"https://tse2.mm.bing.net/th?id=OIP.l94s3d1-LWzfGro-1fXUFQHaKe&pid=Api&P=0",
+            "score":7.0,
+            "genre":"suspenso"
+        },
+        {
+            "name":"los caza fantasmas",
+            "img":"https://tse1.mm.bing.net/th?id=OIP.ClCl-YJQpILhljB8ZNoiIAHaKz&pid=Api&P=0",
+            "score":9.0,
+            "genre":"ciencia ficcion"
+        },
+        {
+            "name":"unidos",
+            "img":"https://tse2.mm.bing.net/th?id=OIP.FkwG9ephsbpmHaptvnna2AHaKk&pid=Api&P=0",
+            "score":2.0,
+            "genre":"animacion"
+        },
+        {
+            "name":"amistad",
+            "img":"https://tse3.mm.bing.net/th?id=OIP.3zEUQ1bb3PKWTXjbHtzcGwHaLH&pid=Api&P=0",
+            "score":7.0,
+            "genre":"suspenso"
+        },
+        {
+            "name":"polaroid",
+            "img":"https://tse2.mm.bing.net/th?id=OIP.9rPvUauQNZA8Wd6JDzgxqgHaKe&pid=Api&P=0",
+            "score":10.0,
+            "genre":"terror"
+        },
+        {
+            "name":"verano del 84",
+            "img":"https://tse4.mm.bing.net/th?id=OIP.BgquGUnPekkVBgNtt7GwxAHaKl&pid=Api&P=0",
+            "score":8.0,
+            "genre":"terror"
+        },
+        {
+            "name":"love and monsters",
+            "img":"https://tse2.mm.bing.net/th?id=OIP.hYNF0KEIFEy2-anWnrlCagHaLH&pid=Api&P=0",
+            "score":7.0,
+            "genre":"romance"
+        },
+        {
+            "name":"crepusculo",
+            "img":"https://tse3.mm.bing.net/th?id=OIP.AF6L_jCP7ts6fDPzrb8opwHaLH&pid=Api&P=0",
+            "score":2.0,
+            "genre":"romance"
+        }
+        
+    ]
+}
